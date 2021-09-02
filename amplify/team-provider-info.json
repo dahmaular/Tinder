@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mchat-staging-145408-authRole",
+      "UnauthRoleArn": "arn:aws:iam::360340538543:role/amplify-mchat-staging-145408-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::360340538543:role/amplify-mchat-staging-145408-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-mchat-staging-145408-deployment",
+      "UnauthRoleName": "amplify-mchat-staging-145408-unauthRole",
+      "StackName": "amplify-mchat-staging-145408",
+      "StackId": "arn:aws:cloudformation:us-east-2:360340538543:stack/amplify-mchat-staging-145408/fbe2b200-fab3-11eb-a56f-0aa82c5bed84",
+      "AmplifyAppId": "d1zeef68ihbngm"
+    },
+    "categories": {
+      "auth": {
+        "mchatbf122a2d": {}
+      }
+    }
+  }
+}
